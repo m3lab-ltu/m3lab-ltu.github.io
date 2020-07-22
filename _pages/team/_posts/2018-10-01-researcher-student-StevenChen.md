@@ -8,7 +8,7 @@ permalink: 'team/2018-10-01-researcher-student-StevenChen'
 social:
     twitter: 
     linkedin: https://www.linkedin.com/in/szu-chi-chen-02b622174
-    google-scholar: 
+    google-scholar: https://scholar.google.com/citations?user=UX03o3cAAAAJ&hl=zh-TW&oi=sra
     github: 
     website:
     orcid: https://orcid.org/0000-0001-6019-7034
