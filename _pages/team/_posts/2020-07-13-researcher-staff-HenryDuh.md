@@ -8,14 +8,14 @@ email: B.Duh@latrobe.edu.au
 permalink: 'team/2020-07-13-researcher-staff-HenryDuh'
 social:
     twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
+    linkedin: https://www.linkedin.com/in/henry-b-l-duh-b5317115
+    google-scholar: https://scholar.google.com/citations?user=S7-v7eoAAAAJ&hl=en
     github: 
     website:
     orcid: http://orcid.org/0000-0003-4808-6109
-    research-gate: https://www.researchgate.net/
+    research-gate: https://www.researchgate.net/profile/Henry_Duh
 education:
- - Education
+ - PhD, University of Washington
 ---
 
 Professor Duh is the Head of Department of Computer Science and Information Technology. He received his degrees in psychology, industrial design and engineering respectively and did his postdoctoral training in the NASA-Johnson Space Centre involved in a virtual reality project. He is also a visiting professor in the Academy of Arts & Design, Tsinghua University, China, adjunct professor in the Graduate School of Journalism, National Taiwan University, Taiwan and adjunct professor in the School of Computer Science, Vellore Institute of Technology, India. Before joining La Trobe University, he was a faculty member in the School of Mechanical and Aerospace Engineering, Nanyang Technological University, Department of Electrical and Computer Engineering, National University of Singapore and School of Engineering and ICT, University of Tasmania.
