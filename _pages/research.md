@@ -1,15 +1,38 @@
 ---
 title: "Research"
 layout: default
-excerpt: "RT2 Lab -- Research"
+excerpt: "MCube Center -- Research"
 sitemap: false
 permalink: /research/
 ---
 
 # Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat duis ultricies. Commodo viverra maecenas accumsan lacus vel. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Pellentesque sit amet porttitor eget dolor morbi non. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Id aliquet risus feugiat in. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sapien pellentesque habitant morbi tristique. Sapien eget mi proin sed libero enim. Viverra vitae congue eu consequat ac felis donec.
+Our research focuses on visualization, interactive media and education technology research. This includes:
+* information visualisation
+* human-computer interaction
+* virtual and augmented reality
+* interaction design
+* computer graphics
+* computer vision
+* image analysis.
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+### Collaborators
+* Professor Mark Billinghurst, Computer Science, University of Auckland and University of South Australia
+* Associate Professor Tomasz Bednarz, Art & Design, University of New South Wales, Australia
+* Dr Philippe Chouinard, La Trobe University, Australia
+* Associate Professor Joe Gabbard, Computer Science, Virginia Tech, USA
+* Professor Andy Herries, Archaeology, La Trobe University, Australia
+* Professor Xiangshi Ren, Computer Science, Kochi University of Technology, Japan
+* Professor Feng Tian, Institute of Software, Chinese Academy of Sciences, China
+* Associate Professor Xiuying Wang, Computer Science, University of Sydney, Australia
+* Associate Professor Sai-Kit Yeung, Computer Science, Hong Kong University of Science and Technology
+* Associate Professor Lap-Fai Yu, Computer Science, George Mason University, USA
+* Dr Shumin Zhai, Google, USA
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+### Sponsors
+![deloitte](/images/Sponsor/deloitte.svg){:height="20%" width="20%"}
+![Oracle](/images/Sponsor/Oracle_logo.svg){:height="20%" width="20%"}
+![Optus](/images/Sponsor/optus-logo.svg){:height="20%" width="20%"}
+![Microsoft](/images/Sponsor/Microsoft_logo.svg){:height="20%" width="20%"}
+
