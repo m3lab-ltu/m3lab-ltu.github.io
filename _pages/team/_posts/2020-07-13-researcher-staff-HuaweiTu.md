@@ -7,12 +7,12 @@ role: Lecturer
 permalink: 'team/2020-07-13-researcher-staff-HuaweiTu'
 social:
     twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/in/hui-cui-26635540/
-    google-scholar: https://scholar.google.com.au/citations?hl=en&user=IPHzmmQAAAAJ
+    linkedin: https://www.linkedin.com/in/huawei-tu-68781155/
+    google-scholar: https://scholar.google.com.au/citations?user=2S_E7XcAAAAJ&hl=en
     github: https://github.com/
     website: https://scholars.latrobe.edu.au/display/htu
     orcid: http://orcid.org/0000-0001-8224-4698
-    research-gate: https://www.researchgate.net/profile/Hui_Cui2
+    research-gate: https://www.researchgate.net/profile/Huawei_Tu2
 education:
  - Education
 ---
