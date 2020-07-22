@@ -6,13 +6,13 @@ image: steven.png
 role: PhD Student
 permalink: 'team/2018-10-01-researcher-student-StevenChen'
 social:
-    twitter: https://twitter.com/
+    twitter: 
     linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    google-scholar: 
+    github: 
     website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    orcid: https://orcid.org/0000-0001-6019-7034
+    research-gate: 
 education:
  - Education
 ---

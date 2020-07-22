@@ -2,19 +2,22 @@
 layout: member
 category: student
 title: Xi Cao
-image: researcher.png
+image: xi.png
 role: PhD Student
 permalink: 'team/2019-01-01-researcher-student-XiCao'
 social:
-    twitter: https://twitter.com/
+    twitter: 
     linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    google-scholar: 
+    github: 
     website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    orcid: 
+    research-gate: 
 education:
- - Education
+ - PhD student
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Xi Cao is a PhD student in the department of computer science and information technology at La Trobe University, Australia. She received bachelor degree in 2017 from Sun Yat-sen University. She is focusing on the user eye movement pattern in virtual reality environment.
+
+**Project:**
+Virtual reality eye movement dataset based on individual characteristics.
