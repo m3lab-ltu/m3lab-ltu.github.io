@@ -2,19 +2,27 @@
 layout: member
 category: student
 title: Minhan Du
-image: researcher.png
+image: dmh.png
 role: PhD Student
 permalink: 'team/2019-03-01-researcher-student-MinhanDu'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    twitter: 
+    linkedin: https://www.linkedin.com/in/minghan-du-49a1721b3/
+    google-scholar: 
+    github: 
     website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    orcid: 
+    research-gate: 
 education:
- - Education
+ - PhD Student
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Minghan Du is a PhD student in the department of computer science and information technology at La Trobe University, Australia. She received bachelor degree in 2015 from Jiangnan University and master degree in 2018 from Beijing Institute of Technology. She is focusing the release and prediction of virtual reality simulator sickness.
+
+**Publications**
+* **Du M** , Nie G Y , Liu Y , et al. Study on Comfort Prediction of Stereoscopic Images Based on Improved Saliency Detection[C] * Chinese Conference on Image and Graphics Technologies*. Springer, Singapore, 2018.
+
+* **Du M** , Liu Y , Wang Y , et al. Study of objective parameters of 3D visual fatigue based on analysis of salient area[J]. *Electronic Imaging*, 2017, 2017(5):48-53.
+
+**Project:**
+The prediction and release of virtual reality simulator sickness.
