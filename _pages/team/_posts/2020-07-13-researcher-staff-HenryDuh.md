@@ -11,7 +11,7 @@ social:
     linkedin: https://www.linkedin.com/in/henry-b-l-duh-b5317115
     google-scholar: https://scholar.google.com/citations?user=S7-v7eoAAAAJ&hl=en
     github: 
-    website:
+    website: https://scholars.latrobe.edu.au/display/bduh
     orcid: http://orcid.org/0000-0003-4808-6109
     research-gate: https://www.researchgate.net/profile/Henry_Duh
 education:

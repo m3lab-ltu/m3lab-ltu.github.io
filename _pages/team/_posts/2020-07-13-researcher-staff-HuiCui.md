@@ -6,10 +6,10 @@ image: hui.png
 role: Lecturer
 permalink: 'team/2020-07-13-researcher-staff-HuiCui'
 social:
-    twitter: https://twitter.com/
+    twitter: 
     linkedin: https://www.linkedin.com/in/hui-cui-26635540/
     google-scholar: https://scholar.google.com.au/citations?hl=en&user=IPHzmmQAAAAJ
-    github: https://github.com/
+    github: 
     website: https://hcui7511.github.io/
     orcid: http://orcid.org/0000-0001-8224-4698
     research-gate: https://www.researchgate.net/profile/Hui_Cui2
