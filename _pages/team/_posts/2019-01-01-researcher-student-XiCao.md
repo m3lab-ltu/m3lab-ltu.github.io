@@ -14,7 +14,7 @@ social:
     orcid: 
     research-gate: 
 education:
- - PhD student
+ - BS, Sun Yat-sen University 2013 - 2017
 ---
 
 Xi Cao is a PhD student in the department of computer science and information technology at La Trobe University, Australia. She received bachelor degree in 2017 from Sun Yat-sen University. She is focusing on the user eye movement pattern in virtual reality environment.

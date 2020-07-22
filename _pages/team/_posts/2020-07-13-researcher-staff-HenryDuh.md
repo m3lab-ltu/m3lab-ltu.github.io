@@ -3,7 +3,7 @@ layout: member
 category: director
 title: Prof. Henry Duh
 image: henry.png
-role: Center Director
+role: Head of Department - ComSci and IT, Comp Sci & Info Tech
 email: B.Duh@latrobe.edu.au
 permalink: 'team/2020-07-13-researcher-staff-HenryDuh'
 social:
@@ -29,7 +29,7 @@ His current research focuses on user experience and interaction design, HCI and 
 Prof. Duh is a private pilot (PPL) and certified advanced ground instructor (AGI) by the Federal Aviation Authority, USA.
 
 
-Involvement in key conferences in 202, 2019, 2018, 2017:
+Involvement in key conferences in 2020, 2019, 2018, 2017:
 
 0. Steering committee member, IEEE International Symposium on Mixed and Augmented Reality
 

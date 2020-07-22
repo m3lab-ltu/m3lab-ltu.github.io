@@ -1,15 +1,16 @@
 ---
 title: "Team Member"
-layout: default
+layout: gridlay
 excerpt: "RT2 Lab: Team members"
 sitemap: false
 permalink: /team/
 ---
-
+<!--
 <h1>{{page.title}}</h1>
+-->
 
 <!-- Director -->
-<h2><a id="director"></a>Director</h2>
+<h2><a id="director"></a>Center Director</h2>
 {% assign members = site.posts | where: 'category', 'director' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
@@ -32,54 +33,76 @@ permalink: /team/
     </div>
 </div>
 {% endfor %}
+
+
 <!-- Staff -->
 
 <h2><a id="staff"></a>Staff</h2>
+{% assign number_printed = 0 %}
 {% assign members = site.posts | where: 'category', 'staff' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
-    <div class="row mt-3">
-        <div class="col-md-2">
-            <a href={{member.url}}>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-                    class="card-img img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 100px;"/>
-            </a>
-        </div>
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
-        <div class="col-md-10">
-            <div class="card-body">
-            <h4 class="card-title"> <a href = {{member.social.website}}>{{ member.title }}</a></h4>
-            <p class="card-text">{{ member.role }}</p>
-			<p class="card-text">{{ member.email }}</p>
-            </div>
-        </div>
-    </div>
+<div class="col-sm-6 clearfix">
+	<a href={{member.url}}>
+		<img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}" class="card-img img-responsive img-thumbnail" width="25%" style="float: left;filter: grayscale(100%)" />
+	</a>
+	<h4><a href = {{member.social.website}}>{{ member.title }}</a></h4>
+	<p>{{ member.role }}</p>
+	<p>{{ member.email }}</p>
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 
 <!-- Students -->
 
 <h2><a id="student"></a>Students</h2>
+{% assign number_printed = 0 %}
 {% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
 {% for member in members %}
-<div class="card team-member-card">
-    <div class="row mt-3">
-        <div class="col-md-2">
-            <a href={{member.url}}>
-                <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
-                    class="card-img img-responsive img-thumbnail"
-                    style="filter: grayscale(100%); max-width: 100px;"/>
-            </a>
-        </div>
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 0 %}
+<div class="row">
+{% endif %}
 
-        <div class="col-md-10">
-            <div class="card-body">
-            <h4 class="card-title"><a href={{member.url}}>{{ member.title }}</a></h4>
-            <p class="card-text">{{ member.role }}</p>
-            </div>
-        </div>
-    </div>
+<div class="col-sm-6 clearfix">
+	<a href={{member.url}}>
+		<img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}" class="card-img  img-responsive img-thumbnail" width="25%" style="float: left;filter: grayscale(100%)" />
+	</a>
+	<h4><a href = {{member.url}}>{{ member.title }}</a></h4>
+	<p>{{ member.role }}</p>
+	<p>{{ member.email }}</p>
 </div>
 
+{% assign number_printed = number_printed | plus: 1 %}
+
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+	
+
+<!-- Alumni -->
+<h2><a id="alumni"></a>Alumni</h2>	
+

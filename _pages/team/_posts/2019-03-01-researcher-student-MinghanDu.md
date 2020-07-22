@@ -14,7 +14,8 @@ social:
     orcid: 
     research-gate: 
 education:
- - PhD Student
+ - MSc, Beijing Institute of Technology 2015 - 2018
+
 ---
 
 Minghan Du is a PhD student in the department of computer science and information technology at La Trobe University, Australia. She received bachelor degree in 2015 from Jiangnan University and master degree in 2018 from Beijing Institute of Technology. She is focusing the release and prediction of virtual reality simulator sickness.

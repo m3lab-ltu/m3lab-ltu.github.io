@@ -14,7 +14,7 @@ social:
     orcid: https://orcid.org/0000-0001-6019-7034
     research-gate: 
 education:
- - Education
+ - MSc, University of Birmingham 2014 - 2015
 ---
 
 Szu-Chi Chen is a PhD student in the department of computer science and information technology at La Trobe University, Australia. He received his BS in psychology in 2009 from Fu Jen Catholic University, Taiwan, and MS in computer science in 2015 from University of Birmingham, United Kingdom. His research interests are in augmented reality, virtual reality, human computer interaction, interaction design, and image processing.
