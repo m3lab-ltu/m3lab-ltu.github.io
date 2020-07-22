@@ -31,7 +31,7 @@ Our research focuses on visualization, interactive media and education technolog
 * Dr Shumin Zhai, Google, USA
 
 ### Sponsors
-![deloitte](.../images/Sponsor/deloitte.svg){:height="20%" width="20%"}
+![deloitte](..../images/Sponsor/deloitte.svg){:height="20%" width="20%"}
 ![Oracle](./images/Sponsor/Oracle_logo.svg?sanitize=true){:height="20%" width="20%"}
 ![Optus](./images/Sponsor/optus-logo.svg){:height="20%" width="20%"}
 ![Microsoft](./images/Sponsor/Microsoft_logo.svg){:height="20%" width="20%"}
