@@ -7,7 +7,7 @@ role: PhD Student
 permalink: 'team/2018-10-01-researcher-student-StevenChen'
 social:
     twitter: 
-    linkedin: https://www.linkedin.com/
+    linkedin: https://www.linkedin.com/in/szu-chi-chen-02b622174
     google-scholar: 
     github: 
     website:
