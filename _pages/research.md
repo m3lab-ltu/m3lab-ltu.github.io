@@ -8,14 +8,7 @@ permalink: /research/
 
 # Research
 
-Our research focuses on digital media, interactive design, and creative visualisation. The research directions include: Virtual, Augmented and Mixed Reality; Human-Computer Interaction; Image Analysis; Computer Graphics; Computer Vision.
-
-In particular, we exploit the latest techniques of Artificial Intelligence and design thinking approaches for the research projects related to:
-* Digital culurtral Heritage 
-* Visualization of Complex Scientific and Social Data;
-* Interactive Biomedical Image Analysis;
-* Multi-model User Interface Design; and
-* Computational Urban and Architectural Layout Design.
+Our research focuses on digital media, interactive design, and creative visualisation. The research directions include: Virtual, Augmented and Mixed Reality; Human-Computer Interaction; Image Analysis; Computer Graphics; Computer Vision. In particular, we exploit the latest techniques of Artificial Intelligence and design thinking approaches for the research projects 
 
 Our works have been accepted and published in prestigious conferences and top-tier journals, mainly in :
 Prestigeous conference: 
