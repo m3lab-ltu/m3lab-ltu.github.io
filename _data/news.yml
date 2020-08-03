@@ -1,21 +1,23 @@
-- date: 05/09/19
-  title: "Another great thing"
+- date: 07/07/20
+  title: "Augmented reality comes to the fight against COVID-19" by Australian Financial Reviews
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - Hololens
+    - Augmented Reality, AR
+    - COVIC-19
+  content: 
 
-- date: 03/09/19
-  title: "Something great"
+- date: 06/07/20
+  title: "a Trobe University models coronavirus infected lung in 3D - Mixed Reality headset HoloLens 2 underpins clinical education breakthrough" by Microsoft
   tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+    - Hololens
+    - Augmented Reality, AR
+    - COVIC-19
+  content: 
+
+- date: 06/07/20
+  title: "Modelling COVID-infected lungs in 3D" by La Trobe University
+  tags:
+    - Hololens
+    - Augmented Reality, AR
+    - COVIC-19
+  content: La Trobe University has used CT scans of a coronavirus-infected patient's lungs to build a virtual 3D model of the infected organs, providing unique insight of the disease viewed through a HoloLens 2 mixed reality (MR) headset. 
