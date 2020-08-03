@@ -15,8 +15,8 @@ social:
     research-gate: https://www.researchgate.net/profile/Henry_Duh
 education:
  - PhD, University of Washington
- - MIndustrial Engineering, University of Wshington
- - MEng (Industrial Design), National Cheng Kung University
+ - MS(Industrial Engineering), University of Wshington
+ - MEng(Industrial Design), National Cheng Kung University
  - BS(Psychology), National Chengchi University
 ---
 
