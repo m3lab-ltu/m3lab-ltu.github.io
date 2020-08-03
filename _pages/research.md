@@ -27,6 +27,13 @@ Prestigeous journal:
 We have been actively participating into the research community events, and serving as steering committee members, conference chairs and program committee members in conferences, such as:
 * IEEE ISMAR, IEEE VR; ACM SIGGRAPH Asia; ACM VRST, ACM CHI 
 
+### Areas of Research Projects
+-	Augmented, Virtual and Mixed Reality
+-	Computational and Interaction Design
+-	Digital Arts and Cultural Heritage 
+-	Multimodal Human-Computer Interaction
+-	Visualisaiton and Analytics
+
 ### Representative Research Projects:
 {% for proli in site.data.projectlist %}
 
