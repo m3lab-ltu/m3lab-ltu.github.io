@@ -66,17 +66,23 @@ We have been actively participating into the research community events, and serv
 
 
 ### Collaborators
+* Australia 
+* Professor Andy Herries, Archaeology, La Trobe University, Australia
 * Professor Mark Billinghurst, Computer Science, University of Auckland and University of South Australia
+* Associate Professor Xiuying Wang, Computer Science, University of Sydney, Australia
 * Associate Professor Tomasz Bednarz, Art & Design, University of New South Wales, Australia
 * Dr Philippe Chouinard, La Trobe University, Australia
+* USA
 * Associate Professor Joe Gabbard, Computer Science, Virginia Tech, USA
-* Professor Andy Herries, Archaeology, La Trobe University, Australia
-* Professor Xiangshi Ren, Computer Science, Kochi University of Technology, Japan
-* Professor Feng Tian, Institute of Software, Chinese Academy of Sciences, China
-* Associate Professor Xiuying Wang, Computer Science, University of Sydney, Australia
-* Associate Professor Sai-Kit Yeung, Computer Science, Hong Kong University of Science and Technology
 * Associate Professor Lap-Fai Yu, Computer Science, George Mason University, USA
 * Dr Shumin Zhai, Google, USA
+* Japan
+* Professor Xiangshi Ren, Computer Science, Kochi University of Technology, Japan
+* China
+* Professor Feng Tian, Institute of Software, Chinese Academy of Sciences, China
+* Professor Yingqing Xu, Art & Design, Tsinghua University, China
+* Associate Professor Sai-Kit Yeung, Computer Science, Hong Kong University of Science and Technology
+
 
 ### Sponsors
 <img src="https://m3lab-ltu.github.io/images/sponsor/deloitte.svg?sanitize=true" width="20%" height="20%">
