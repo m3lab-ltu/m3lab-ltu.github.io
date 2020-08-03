@@ -1,0 +1,61 @@
+- title: "Leveraging the Crossing-based Interaction Paradigm for Interface Design"
+  image: ProCross.png
+  description: Crossing has arguably become an important paradigm in human-computer interaction such as mouse input, stylus input, direct finger touch and remote display interaction. Yet its interactive potentials have not been fully explored. Hence, we have conducted a series of studies to leverage the expressiveness of crossing for user interface design. First, we introduced the use of crossing-based selection in virtual reality and investigated its performance in comparison to pointing-based selection. We also applied the crossing paradigm to moving target selection, and proposed a model to quantify the endpoint uncertainty in crossing-based moving target selection. In addition, we looked into distractor effects on crossing-based interaction. 
+  authors: Huawei TU
+  link:
+    url:
+    display:  
+  highlight: 
+  news2:
+
+- title: "Gesture Input for Mobile Interaction Design"
+  image: ProGesture.png
+  description: Gesture interaction is a popular style on mobile devices. Such popularity has increasingly raised many research questions in discussions of gesture interaction such as gesture learning, modelling, recognition and design. This project focuses on gesture design for mobile interaction from three aspects, i.e. input modalities, physical activities and holding postures. This project investigates the effects of these aspects on gesture input for mobile interaction design. The purpose of this project is to design more efficient gesture-driven interfaces for mobile interaction.
+  authors: Huawei TU
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
+- title: "Biomedical computer vision for precision oncology"
+  image: ProBiomedical.png
+  description: Detection and segmentation of lesions in medical images such as CT are routinely performed in radiology centres for patient diagnosis and treatment planning. This process is time-consuming and prone to inter- and intra-observer variations. Computerized methods have been developed to assist precision diagnosis and treatment planning efficiently but there is still much scope of improvement especially when there are limited amount of data or annotations for training. In this project, we investigate advanced machine learning including semi-supervised or weakly supervised algorithms for semantic segmentation of regions of interests from CT and MRI images.
+  authors: Hui (Lydia) CUI
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
+- title: "Multi-modal multi-domain data fusion and collaborative learning"
+  image: ProMulti-model.png
+  description: Huge amount of imaging data and clinical testing and assessment are the basis for precision biomedicine. This project aims to analyze these multi-modal multi-domain data with collaborative learning and visual analytics techniques, and transform these analyses to our understanding of human health and disease pattern for transparent decision making and prognostic medicine.
+  authors: Hui (Lydia) CUI
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
+
+- title: "Computational Design of Mid-scale Layout using Data-driven Optimization"
+  image: ProComputational.png
+  description: Given an input layout domain such as the boundary of a shopping mall, the proposed approach synthesizes the paths and sites by optimizing three metrics that measure crowd flow properties:mobility, accessibility, and coziness. While these metrics are straightforward to evaluate by a full agent-based crowd simulation, optimizing a layout usually requires hundreds of evaluations, which would require a long time to compute even using the latest crowd simulation techniques. To overcome this challenge, we propose a novel data-driven approach where nonlinear regressors are trained to capture the relationship between the agent-based metrics, and the geometrical and topological features of a layout. The proposed approach synthesizes crowd-aware layouts and improve existing layouts with better crowd flow properties.
+  authors: Tian (Frank) FENG
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
+- title: "Urban Zoning Classification from Heterogenous Imagery Data using Artificial Intelligence"
+  image: ProUrban.png
+  description: Urban zoning enables various applications in land use analysis and urban planning. The proposed approach focuses on automatic urban zoning using higher-order Markov random fields (HO-MRF) built on multi-view imagery data including street-view photos and top-view satellite images. In the proposed HO-MRF, top-view satellite data is segmented via a multi-scale deep convolutional neural network (MS-CNN) and used in lower order potentials. Street-view data with geo-tagged information is augmented in higher-order potentials.
+  authors: Tian (Frank) FENG
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
