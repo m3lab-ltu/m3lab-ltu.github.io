@@ -12,8 +12,9 @@ permalink: /news.html
         <li class="media">
             <div class="media-body">
             <h4 class="mt-0 mb-1">{{ article.title }}</h4>
-            <p><small>{{ article.date }}</small></p>
+            <p><em> {{article.newspaper}} </em><br/> <small> {{ article.date }}</small></p>
             {{ article.content }}
+			<p><a href = {{article.website}}> More infomation</a></h4>
             </div>
         </li>
     {% endfor %}
