@@ -21,7 +21,7 @@ Our works have been accepted and published in prestigious conferences and top-ti
 Prestigeous conference: 
 * IEEE ISMAR, IEEE VR; ACM CHI, ACM SIGGRAPH, ACM SIGGRAPH Asia; ACM CHI;
 
-Prestigesous journal:
+Prestigeous journal:
 * ACM TOG, ACM TOCHI; IEEE TVCG;  
 
 We have been actively participating into the research community events, and serving as steering committee members, conference chairs and program committee members in conferences, such as:
