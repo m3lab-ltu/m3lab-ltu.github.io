@@ -25,7 +25,7 @@ permalink: /team/
 
         <div class="col-md-10">
             <div class="card-body">
-            <h4 class="card-title"><a href = {{member.social.website}}>{{ member.title }} </a></h4>
+            <h4 class="card-title"><a href = {{member.url}}>{{ member.title }} </a></h4>
             <p class="card-text">{{ member.role }}</p>
 			<p class="card-text">{{ member.email }}</p>
             </div>
@@ -50,7 +50,7 @@ permalink: /team/
 	<a href={{member.url}}>
 		<img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}" class="card-img img-responsive img-thumbnail" width="25%" style="float: left;filter: grayscale(100%)" />
 	</a>
-	<h4 class="card-title"><a href = {{member.social.website}}>{{ member.title }}</a></h4>
+	<h4 class="card-title"><a href = {{member.url}}>{{ member.title }}</a></h4>
 	<p>{{ member.role }}</p>
 	<p>{{ member.email }}</p>
 </div>
