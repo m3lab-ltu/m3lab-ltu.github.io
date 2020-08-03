@@ -14,7 +14,9 @@ social:
     orcid: http://orcid.org/0000-0001-8224-4698
     research-gate: https://www.researchgate.net/profile/Hui_Cui2
 education:
- - Education
+ - PhD, University of Sydney
+ - MPhil, University of Sydney
+ - BEng, Harbin Insitute of Technology
 ---
 
 Dr. Cui joined La Trobe University as a Lecturer in Interactive Digital Media Since March 2019.
