@@ -14,7 +14,8 @@ social:
     orcid: http://orcid.org/0000-0001-8224-4698
     research-gate: https://www.researchgate.net/profile/Huawei_Tu2
 education:
- - Education
+ - PhD, Kochi University of Technology, Japan
+ - BS, Jilin University, China
 ---
 
 Huawei Tu is a lecturer at La Trobe University, Australia. He received his Ph.D. degree at Kochi University of Technology, Japan in 2012. He was a postdoc researcher at Ritsumeikan University of Japan from 2012 to 2013, and at Swansea University of the U.K. from 2013 to 2014. Before joining La Trobe University, he was an associate professor at Nanjing University of Aeronautics and Astronautics in China from 2014 to 2019. 
