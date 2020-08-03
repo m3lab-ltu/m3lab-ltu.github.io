@@ -79,6 +79,7 @@ USA
 * Dr Shumin Zhai, Google, USA
 
 
+
 ### Sponsors and supporters
 <img src="https://m3lab-ltu.github.io/images/sponsor/deloitte.svg?sanitize=true" width="20%" height="20%">
 <img src="https://m3lab-ltu.github.io/images/sponsor/Oracle_logo.svg?sanitize=true" width="20%" height="20%">
