@@ -3,7 +3,7 @@ layout: member
 category: director
 title: Prof. Henry Duh
 image: henry.png
-role: Head of Department - ComSci and IT, Comp Sci & Info Tech
+role: Head of Department, Department of Computer Science and IT; Course coordinator, Master of Artificial Intelligence; Course coordinator, Master of Digital Media (Interaction Design)
 email: B.Duh{at}latrobe.edu.au
 permalink: 'team/2020-07-13-researcher-staff-HenryDuh'
 social:
