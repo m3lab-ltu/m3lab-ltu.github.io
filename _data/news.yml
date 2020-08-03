@@ -1,6 +1,8 @@
 - date: 06/07/20
   title: "Augmented reality comes to the fight against COVID-19" 
   newspaper: "Australian Financial Reviews"
+  link: https://www.afr.com/
+  website: https://www.afr.com/technology/augmented-reality-comes-to-the-fight-against-covid-19-20200701-p5583b
   tags:
     - Hololens
     - Augmented Reality, AR
@@ -10,6 +12,8 @@
 - date: 06/07/20
   title: "La Trobe University models coronavirus infected lung in 3D - Mixed Reality headset HoloLens 2 underpins clinical education breakthrough" 
   newspaper: "Microsoft"
+  link:
+  website: https://news.microsoft.com/en-au/features/la-trobe-university-models-coronavirus-infected-lung-in-3d/
   tags:
     - Hololens
     - Augmented Reality, AR
@@ -18,7 +22,8 @@
 
 - date: 06/07/20
   title: "Modelling COVID-infected lungs in 3D" 
-  newspapers: "La Trobe University"
+  newspaper: "La Trobe University"
+  website: https://www.latrobe.edu.au/news/articles/2020/release/modelling-covid-infected-lungs-in-3d
   tags:
     - Hololens
     - Augmented Reality, AR
