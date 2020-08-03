@@ -86,4 +86,4 @@ USA
 <img src="https://m3lab-ltu.github.io/images/sponsor/optus-logo.svg?sanitize=true" width="20%" height="20%">
 <img src="https://m3lab-ltu.github.io/images/sponsor/Microsoft_logo.svg" width="20%" height="20%">
 <img src="https://m3lab-ltu.github.io/images/sponsor/mf_logo.svg" width="20%" height="20%" style="background-color: #000;">
-
+<img src="https://m3lab-ltu.github.io/images/sponsor/la_trobe_university.svg" width="20%" height="20%">
