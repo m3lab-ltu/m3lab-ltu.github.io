@@ -4,7 +4,8 @@
     - Hololens
     - Augmented Reality, AR
     - COVIC-19
-  content: 
+  content: Researchers have developed an augmented-reality visualisation of the effects of COVID-19 that they say could help with the diagnosis and treatment of the disease.
+The visualisation, which uses Microsoft's HoloLens 2 "mixed-reality" headset, turns conventional, two-dimensional CT scans of COVID-damaged lungs into 3D images.
 
 - date: 06/07/20
   title: "a Trobe University models coronavirus infected lung in 3D - Mixed Reality headset HoloLens 2 underpins clinical education breakthrough" by Microsoft
@@ -12,7 +13,7 @@
     - Hololens
     - Augmented Reality, AR
     - COVIC-19
-  content: 
+  content: Medical imaging is indispensable to the delivery of healthcare and an essential component of clinical research. However, there is currently a lack of appropriate software to assimilate and derive maximum benefit from multimodal interactions with medical images in mixed reality environments
 
 - date: 06/07/20
   title: "Modelling COVID-infected lungs in 3D" by La Trobe University
