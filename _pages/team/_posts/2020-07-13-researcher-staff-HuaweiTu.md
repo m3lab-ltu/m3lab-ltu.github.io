@@ -18,7 +18,7 @@ education:
  - BS, Jilin University, China
 ---
 
-Huawei Tu is a lecturer at La Trobe University, Australia. He received his Ph.D. degree at Kochi University of Technology, Japan in 2012. He was a postdoc researcher at Ritsumeikan University of Japan from 2012 to 2013, and at Swansea University of the U.K. from 2013 to 2014. Before joining La Trobe University, he was an associate professor at Nanjing University of Aeronautics and Astronautics in China from 2014 to 2019. 
+Dr. Tu is a lecturer at La Trobe University, Australia. He received his Ph.D. degree at Kochi University of Technology, Japan in 2012. He was a postdoc researcher at Ritsumeikan University of Japan from 2012 to 2013, and at Swansea University of the U.K. from 2013 to 2014. Before joining La Trobe University, he was an associate professor at Nanjing University of Aeronautics and Astronautics in China from 2014 to 2019. 
 
 His research area is Human-computer Interaction (HCI), with special interests in multimodal interaction, user interface design and user experience design. He has published more than 30 research papers including top-tier HCI journal papers (e.g. ACM TOCHI) and conference papers such as ACM CHI.
 
