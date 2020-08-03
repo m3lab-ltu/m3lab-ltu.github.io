@@ -4,7 +4,8 @@ category: director
 title: Prof. Henry Duh
 image: henry.png
 role1: Head, Department of Computer Science and IT
-role2: Course coordinator, Master of Artificial Intelligence Course coordinator, Master of Digital Media (Interaction Design)
+role2: Course coordinator, Master of Artificial Intelligence 
+role3: Course coordinator, Master of Digital Media (Interaction Design)
 email: B.Duh@latrobe.edu.au
 permalink: 'team/2020-07-13-researcher-staff-HenryDuh'
 social:
