@@ -59,3 +59,12 @@
   highlight: 
   news2:
 
+- title: "User-Guided Generative Adversarial Networks for Cultural Heritage"
+  image: ProCultural.png
+  description: Automated image style transfer is of great interest given the recent advances in generative adversarial networks (GANs). However, it is challenging to generate synthesized images from abstract masks while preserving detailed patterns for certain kinds of art given small datasets. This project aims to develop an GAN-based system enhanced with user intent and prior knowledge for generating images styled as Cantonese porcelain using user-defined masks. 
+  authors: Szu-Chi (Steven) Chen
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
