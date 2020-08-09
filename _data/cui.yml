@@ -1,0 +1,174 @@
+- title: Attentional multi-level representation encoding based on convolutional and variance autoencoders for lncRNA–disease association prediction
+  authors: N Sheng, H Cui, T Zhang, P Xuan
+  publisher: Briefings in Bioinformatics, 2020
+  year: 2020
+  cited: 
+
+- title: Prediction of esophageal fistula from esophageal cancer CT images using multi-view multi-scale attentional convolutional neural network (MM-Atten-CNN).
+  authors: Y Xu, H Cui, B Fan, B Zou, X Sun, J Yu, L Wang
+  publisher: Journal of Clinical Oncology 38 (15_suppl), 4553-4553, 2020
+  year: 2020
+  cited: 
+
+- title: Biomedical image segmentation for precision radiation oncology
+  authors: H Cui, H Wang, K Yan, X Wang, W Zuo, DD Feng
+  publisher: Biomedical Information Technology, 295-319, 2020
+  year: 2020
+  cited: 1
+
+- title: Epileptic seizure detection with EEG textural features and imbalanced classification based on EasyEnsemble learning
+  authors: C Sun, H Cui, W Zhou, W Nie, X Wang, Q Yuan
+  publisher: International journal of neural systems 29 (10), 1950021, 2019
+  year: 2019
+  cited: 8
+
+- title: Cantonese porcelain classification and image synthesis by ensemble learning and generative adversarial network
+  authors: SSC Chen, H Cui, M Du, T Fu, X Sun, Y Ji, H Duh
+  publisher: Frontiers of Information Technology & Electronic Engineering 20 (12), 1632-1643, 2019
+  year: 2019
+  cited: 
+
+- title: HeteroDualNet:A dual convolutional neural network with heterogeneous layers for drug-disease association prediction via Chou’s five-step rule
+  authors: P Xuan, H Cui, T Shen, N Sheng, T Zhang
+  publisher: Frontiers in pharmacology 10, 2019
+  year: 2019
+  cited: 3
+
+- title: Computational delineation and quantitative heterogeneity analysis of lung tumor on 18F-FDG PET for radiation dose-escalation
+  authors: X Wang, H Cui, G Gong, Z Fu, J Zhou, J Gu, Y Yin, D Feng
+  publisher: SCIEnTIfIC RepoRts 8 (1), 1-9, 2018
+  year: 2018
+  cited: 1
+
+- title: Thyroid classification via new multi-channel feature association and learning from multi-modality MRI images
+  authors: R Zhang, Q Liu, H Cui, X Wang, S Song, G Huang, D Feng
+  publisher: 2018 IEEE 15th International Symposium on Biomedical Imaging (ISBI 2018 …, 2018
+  year: 2018
+  cited: 3
+
+- title: Collaborative learning based feature adaption model with applications on MRI prostate boundary delineation
+  authors: X Wang, H Cui, C Zheng, S Zeng, W Tang, P Gong, D Feng
+  publisher: Biomedical Imaging (ISBI 2018), 2018 IEEE 15th International Symposium on …, 2018
+  year: 2018
+  cited: 
+
+- title: A topo-graph model for indistinct target boundary definition from anatomical images
+  authors: H Cui, X Wang, J Zhou, G Gong, S Eberl, Y Yin, L Wang, D Feng, ...
+  publisher: Computer Methods and Programs in Biomedicine, 2018
+  year: 2018
+  cited: 4
+
+- title: Ischemic stroke clinical outcome prediction based on image signature selection from multimodality data
+  authors: H Cui, X Wang, Y Bian, S Song, D Feng
+  publisher: 40th Annual International Conference of the IEEE Engineering in Medicine and …, 2018
+  year: 2018
+  cited: 2
+
+- title: Learning Deep Spatial Lung Features by 3D Convolutional Neural Network for Early Cancer Detection
+  authors: T Jin, H Cui, S Zeng, X Wang
+  publisher: 2017 International Conference on Digital Image Computing:Techniques and …, 2017
+  year: 2017
+  cited: 15
+
+- title: 3D segmentation of residual thyroid tissue using constrained region growing and voting strategies
+  authors: G Bao, C Zheng, P Li, H Cui, X Wang, S Song, G Huang, D Feng
+  publisher: 2017 International Conference on Digital Image Computing:Techniques and …, 2017
+  year: 2017
+  cited: 
+
+- title: A unified collaborative multikernel fuzzy clustering for multiview data
+  authors: S Zeng, X Wang, H Cui, C Zheng, D Feng
+  publisher: IEEE Transactions on Fuzzy Systems 26 (3), 1671-1687, 2017
+  year: 2017
+  cited: 22
+
+- title: Multi-view collaborative segmentation for prostate MRI images
+  authors: X Wang, W Tang, H Cui, S Zeng, DD Feng, M Fulham
+  publisher: 2017 39th Annual International Conference of the IEEE Engineering in …, 2017
+  year: 2017
+  cited: 3
+
+- title: Structure and location preserving topological representation with applications on CT segmentation
+  authors: SF Awawdeh, H Cui, X Wang, DD Feng
+  publisher: 2017 39th Annual International Conference of the IEEE Engineering in …, 2017
+  year: 2017
+  cited: 
+
+- title: Computational boundary definition by geodesic graph model
+  authors: H Cui, X Wang, J Zhou, G Gong, Y Yin, D Feng
+  publisher: 2017 IEEE 14th International Symposium on Biomedical Imaging (ISBI 2017 …, 2017
+  year: 2017
+  cited: 
+
+- title: Topology-aware illumination design for volume rendering
+  authors: J Zhou, X Wang, H Cui, P Gong, X Miao, Y Miao, C Xiao, F Chen, D Feng
+  publisher: BMC bioinformatics 17 (1), 1-17, 2016
+  year: 2016
+  cited: 4
+
+- title: Learning multi-modality local and global affinities in graph based ranking for automated lung tumor delineation
+  authors: H Cui, X Wang, J Zhou, G Gong, Y Yin, F Zheng, D Feng
+  publisher: 2016 IEEE 13th International Symposium on Biomedical Imaging (ISBI), 948-951, 2016
+  year: 2016
+  cited: 
+
+- title: Primary lung tumor segmentation from PET–CT volumes with spatial–topological constraint
+  authors: H Cui, X Wang, W Lin, J Zhou, S Eberl, D Feng, M Fulham
+  publisher: International journal of computer assisted radiology and surgery 11 (1), 19-29, 2016
+  year: 2016
+  cited: 19
+
+- title: Topology polymorphism graph for lung tumor segmentation in PET-CT images
+  authors: H Cui, X Wang, J Zhou, S Eberl, Y Yin, D Feng, M Fulham
+  publisher: Physics in Medicine & Biology 60 (12), 4893, 2015
+  year: 2015
+  cited: 18
+
+- title: Improved segmentation accuracy for thoracic PET-CT in patients with NSCLC using a multi-graph model (MGM)
+  authors: H Cui, X Wang, J Zhou, S Eberl, D Feng, M Fulham
+  publisher: Journal of Nuclear Medicine 56 (supplement 3), 2527-2527, 2015
+  year: 2015
+  cited: 5
+
+- title: Topology constraint graph-based model for non-small-cell lung tumor segmentation from pet volumes
+  authors: H Cui, X Wang, J Zhou, M Fulham, S Eberl, D Feng
+  publisher: 2014 IEEE 11th International Symposium on Biomedical Imaging (ISBI), 1243-1246, 2014
+  year: 2014
+  cited: 9
+
+- title: Lung tumor delineation based on novel tumor-background likelihood models in PET-CT images
+  authors: X Wang, C Ballangan, H Cui, M Fulham, S Eberl, Y Yin, D Feng
+  publisher: IEEE Transactions on Nuclear Science 61 (1), 218-224, 2014
+  year: 2014
+  cited: 13
+
+- title: Prior knowledge enhanced random walk for lung tumor segmentation from low-contrast CT images
+  authors: H Cui, X Wang, M Fulham, DD Feng
+  publisher: 2013 35th Annual International Conference of the IEEE Engineering in …, 2013
+  year: 2013
+  cited: 13
+
+- title: Automated localization and segmentation of lung tumor from PET-CT thorax volumes based on image feature analysis
+  authors: H Cui, X Wang, D Feng
+  publisher: 2012 Annual International Conference of the IEEE Engineering in Medicine and …, 2012
+  year: 2012
+  cited: 21
+
+- title: Lung tumor segmentation and separation from PET volumes based on Tumor-Customized Downhill
+  authors: X Wang, H Cui, C Ballangan, D Feng
+  publisher: Proceedings of 2012 IEEE-EMBS International Conference on Biomedical and …, 2012
+  year: 2012
+  cited: 2
+
+- title: Lung Tumor Segmentation Based on PET/CT Image Feature Analysis
+  authors: H Cui
+  publisher: University of Sydney, 2012
+  year: 2012
+  cited: 
+
+- title: Accurate localization of lung tumor based on deformable registration
+  authors: C Hui, W Xuanli, W Tonghui
+  publisher: Proceedings of 2011 Cross Strait Quad-Regional Radio Science and Wireless …, 2011
+  year: 2011
+  cited: 
+
