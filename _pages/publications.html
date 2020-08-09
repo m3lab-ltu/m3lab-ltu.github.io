@@ -1,7 +1,7 @@
 ---
 title: "Publications"
 layout: default
-excerpt: "RT2 Lab -- Publications."
+excerpt: "MCube Center -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -10,7 +10,6 @@ permalink: /publications/
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-
     {% for publi in site.data.publications %}
         <div class="panel-heading">
             <a data-toggle="collapse" data-parent="#accordion"
@@ -49,4 +48,427 @@ permalink: /publications/
         </div>
     {% endfor %}
     </div>
+	
+	{% assign current_year = 'now'|date: "%Y" %}
+	{% assign min_year = current_year | minus:10 %}
+	<!-- String to number (just add 0 to the variable)-->
+	{% assign year = current_year | plus:0 %}
+	<div class="panel panel-default">
+        <div class="panel-heading">
+		
+            <a data-toggle="collapse" data-parent="#accordion"
+               href="#collapse{{year}}"
+               style="color: inherit;">
+				{{year}}
+            </a>
+        </div>
+        <div id="collapse{{year}}" class="panel-collapse collapse">
+            <div class="panel-body">
+			<!--HBL Duh-->
+			{% for publi in site.data.henry %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>				
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			<!--H Cui-->
+			{% for publi in site.data.cui %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'H Cui' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'H Cui' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
+			<!--H Tu-->
+			{% for publi in site.data.huawei %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'H Tu' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'H Tu' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
+			<!--T Feng-->
+			{% for publi in site.data.tian %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'T Feng' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'T Feng' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+            </div>			
+        </div>  		
+    </div>
+	
+	{% for i in (0..9) %}
+	{% assign year = year|minus: 1 %}
+	{% if year > min_year %}
+	<div class="panel panel-default">
+        <div class="panel-heading">
+		
+            <a data-toggle="collapse" data-parent="#accordion"
+               href="#collapse{{year}}"
+               style="color: inherit;">
+				{{year}}
+            </a>
+        </div>
+        <div id="collapse{{year}}" class="panel-collapse collapse">
+            <div class="panel-body">
+			<!--HBL Duh-->
+			{% for publi in site.data.henry %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>			
+				{% endif %}
+			{% endfor %}
+			<!--H Cui-->
+			{% for publi in site.data.cui %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'H Cui' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'H Cui' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>					
+					<p><em>{{ publi.publisher }}</em></p>
+					
+				{% endif %}
+			{% endfor %}
+			
+			<!--H Tu-->
+			{% for publi in site.data.huawei %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'H Tu' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'H Tu' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
+			<!--T Feng-->
+			{% for publi in site.data.tian %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'T Feng' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'T Feng' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+            </div>			
+        </div>  		
+    </div>
+	{% else %}
+	<div class="panel panel-default">
+        <div class="panel-heading">
+		
+            <a data-toggle="collapse" data-parent="#accordion"
+               href="#collapse{{year}}"
+               style="color: inherit;">
+				Older
+            </a>
+        </div>
+        <div id="collapse{{year}}" class="panel-collapse collapse">
+            <div class="panel-body">
+			<!--HBL Duh-->
+			{% for publi in site.data.henry %}
+				{% if publi.year <= min_year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+	
+				{% endif %}
+			{% endfor %}
+			<!--H Cui-->
+			{% for publi in site.data.cui %}
+				{% if publi.year <= min_year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'H Cui' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'H Cui' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>					
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
+			<!--H Tu-->
+			{% for publi in site.data.huawei %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'H Tu' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'H Tu' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
+			<!--T Feng-->
+			{% for publi in site.data.tian %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'T Feng' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'T Feng' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+            </div>			
+        </div>  		
+    </div>
+	{% endif %}
+	{% endfor %}
+<!--
+	{% assign year = year|minus: 1 %}		
+	<div class="panel panel-default">
+        <div class="panel-heading">
+		
+            <a data-toggle="collapse" data-parent="#accordion"
+               href="#collapse{{forloop.index}}"
+               style="color: inherit;">
+				{{year}}
+            </a>
+        </div>
+        <div id="collapse{{forloop.index}}" class="panel-collapse collapse">
+            <div class="panel-body">
+			{% for publi in site.data.henry %}
+				{% if publi.year == year %}
+					<p>{{ publi.title }}</p>
+					<p>{{ publi.authors }}</p>
+					<p>{{ publi.year }}</p>
+					<a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
+						role="button" target="blank">Link</a>
+				{% endif %}
+			{% endfor %}
+			
+			{% for publi in site.data.cui %}
+				{% if publi.year == year %}
+					<p>{{ publi.title }}</p>
+					<p>{{ publi.authors }}</p>
+					<p>{{ publi.year }}</p>
+					<a class="btn btn-outline-primary" href="https://doi.org/{{publi.DOI}}"
+						role="button" target="blank">Link</a>
+				{% endif %}
+			{% endfor %}
+            </div>			
+        </div>  		
+    </div>
+-->	
 </div>
+
