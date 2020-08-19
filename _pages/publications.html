@@ -346,7 +346,7 @@ permalink: /publications/
 					{% assign last_authors = publi.authors | split:"," | last %}					
 					{% for author in authors %}
 						{% if author contains last_authors %}
-							{% if author contains 'R Skarbez' %}
+							{% if author contains 'R Skarbez' or author contains 'RT Skarbez' %}
 								<b>{{ author }}</b>
 							{% else %}
 								{{ author }}
