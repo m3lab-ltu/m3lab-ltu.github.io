@@ -58,11 +58,51 @@
     display:  
   highlight: 
   news2:
+  
+- title: "Cognitive Illusions in Virtual Environments"
+  image: PiPsiDiagram.png
+  description: In a [2020 paper](https://ieeexplore.ieee.org/abstract/document/9055149), my colleagues and I presented a research agenda regarding five key constructs that are part of how users experience virtual environments:immersion, coherence, Place Illusion, Plausibility Illusion, and presence. It is believed that immersion (the technical qualities of a system) and coherence (the degree to which the experience matches up with user expectations) lead to Place Illusion (the user's feeling that they are in another place) and Plausibility Illusion (the feeling that the events a user is seeing are actually happening), and that these two feelings give rise to the sensation of presence. This project seeks to generate knowledge about these constructs and the relationships between them. 
+  authors: Richard Skarbez
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
+- title: "Immersive Analytics, particularly Immersive Archaeology"
+  image: IATaxonomy_archaeology.png
+  description: Advances in a variety of computing fields, including “big data”, machine learning, visualization, and augmented/mixed/virtual reality, have combined to give rise to the emerging field of immersive analytics, which investigates how these new technologies support analysis and decision making. In a [2019 paper](https://www.frontiersin.org/articles/10.3389/frobt.2019.00082/full), my colleagues and I identified some of what we consider to be the most important research questions facing immersive analytics. This project seeks to investigate these questions.<br>I have a particular interest in the application of immersive analytics to the field of archaeology. Archaeologists collect rich and complex spatiotemporal data in the course of their fieldwork. This data, however, frequently lies unused after it is collected because it is difficult to analyze, and the archaeology domain experts frequently lack the time and computational expertise needed to extract maximum value from their data. This project seeks to develop and evaluate tools to enable new archaeological research.
+  authors: Richard Skarbez
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
+- title: "Human Perception of and in Immersive Environments"
+  image: Ponzo.png
+  description: There are high hopes that immersive technology (augmented, mixed, and virtual reality) will enable new possibilities in training, education, telepresence, and many other fields. However, for this to be the case, we need to know that users perceive these environments accurately. Such technologies also have the potential to transform the study of human perception more generally, as they offer the ability to generate experimental stimuli that are both highly controllable and ecologically valid. This project seeks to generate quantitative data and theoretical models for how humans perceive stimuli presented by immersive technologies.
+  authors: Richard Skarbez
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
 
 - title: "User-Guided Generative Adversarial Networks for Cultural Heritage"
   image: ProCultural.png
   description: Automated image style transfer is of great interest given the recent advances in generative adversarial networks (GANs). However, it is challenging to generate synthesized images from abstract masks while preserving detailed patterns for certain kinds of art given small datasets. This project aims to develop an GAN-based system enhanced with user intent and prior knowledge for generating images styled as Cantonese porcelain using user-defined masks. 
   authors: Szu-Chi (Steven) Chen
+  link:
+    url: 
+    display:  
+  highlight: 
+  news2:
+
+- title: "The prediction of virtual reality simulator sickness"
+  image: ProPrediction-Sickness.png
+  description: Virtual reality (VR) has been applied widely recently. However, users suffer visual discomfort feelings from it. virtual reality simulator sickness is still an unsolved problem in the application of VR. This project aims to design an effective neural network for VR simulator sickness prediction work in an objective method.
+  authors: Minghan Du
   link:
     url: 
     display:  
