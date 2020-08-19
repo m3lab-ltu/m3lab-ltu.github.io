@@ -32,7 +32,9 @@ We have been actively participating into the research community events, and serv
 
 <div class="row">
  <div class="well clearfix">
+
   <p><b>{{ proli.title }}</b></p>
+  
   <!--
   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ proli.image }}" class="img-responsive" width="33%" style="float: left" />
   -->
@@ -43,15 +45,13 @@ We have been actively participating into the research community events, and serv
  </div>
 </div>
 
-<!--
-</div>
--->
 
 {% endfor %}
 
 
 
 <p> &nbsp; </p>
+
 
 
 
@@ -67,8 +67,12 @@ Australia
 China
 * Professor Feng Tian, Institute of Software, Chinese Academy of Sciences, China
 * Professor Yingqing Xu, Art & Design, Tsinghua University, China
+* Professor Yue Liu, School of Optics and Photonics, Beijing Institute of Technology, China
+* Professor Yongtian Wang, School of Optics and Photonics, Beijing Institute of Technology, China
+* Professor Dongdong Weng, School of Optics and Photonics, Beijing Institute of Technology, China
 * Associate Professor Sai-Kit Yeung, Computer Science, Hong Kong University of Science and Technology
 * Associate Professor Ji Yi, Art & Design, Guangdong University of Technology, China
+
 
 Japan
 * Professor Xiangshi Ren, Computer Science, Kochi University of Technology, Japan
@@ -82,8 +86,17 @@ USA
 
 ### Sponsors and supporters
 <img src="https://m3lab-ltu.github.io/images/sponsor/deloitte.svg?sanitize=true" width="20%" height="20%">
-<img src="https://m3lab-ltu.github.io/images/sponsor/Oracle_logo.svg?sanitize=true" width="20%" height="20%">
-<img src="https://m3lab-ltu.github.io/images/sponsor/optus-logo.svg?sanitize=true" width="20%" height="20%">
+<img src="https://m3lab-ltu.github.io/images/sponsor/Oracle_logo.svg?sanitize=true" width="20%" height="20%" style=" vertical-align:middle;margin:50px 0px">
+<img src="https://m3lab-ltu.github.io/images/sponsor/optus-logo.svg?sanitize=true" width="20%" height="20%" style="vertical-align:middle;margin:50px 0px">
 <img src="https://m3lab-ltu.github.io/images/sponsor/Microsoft_logo.svg" width="20%" height="20%">
+
 <img src="https://m3lab-ltu.github.io/images/sponsor/mf_logo.svg" width="20%" height="20%" style="background-color: #000;">
-<img src="https://m3lab-ltu.github.io/images/sponsor/la_trobe_university.svg" width="20%" height="20%">
+<img src="https://m3lab-ltu.github.io/images/sponsor/la_trobe_university.svg" width="20%" height="20%" style="vertical-align:middle;margin:50px 30px">
+<img src="https://m3lab-ltu.github.io/images/sponsor/cas_logo.png" width="20%" height="20%" style="vertical-align:middle;margin:50px 50px">
+<img src="https://m3lab-ltu.github.io/images/sponsor/tsinghua_logo.svg" width="20%" height="20%" style="background-color: #000">
+
+<img src="https://m3lab-ltu.github.io/images/sponsor/bit_logo.svg" width="20%" height="20%" style="vertical-align:middle;margin:0px 0px">
+
+<!--
+<img src="/images/sponsor/bit_logo.svg" width="20%" height="20%" style="vertical-align:middle;margin:50px 50px">
+-->
