@@ -335,6 +335,35 @@ permalink: /publications/
         </div>
         <div id="collapse{{year}}" class="panel-collapse collapse">
             <div class="panel-body">
+			
+			<!--R Skarbez-->
+			{% for publi in site.data.rick %}
+				{% if publi.year <= min_year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'R Skarbez' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'R Skarbez' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
 			<!--HBL Duh-->
 			{% for publi in site.data.henry %}
 				{% if publi.year <= min_year %}
@@ -418,35 +447,7 @@ permalink: /publications/
 					<p><em>{{ publi.publisher }}</em></p>
 				{% endif %}
 			{% endfor %}
-			
-			<!--R Skarbez-->
-			{% for publi in site.data.rick %}
-				{% if publi.year == year %}
-					<p><b>{{ publi.title }}</b></p>
-					<!-- authors -->
-					<p>
-					{% assign authors = publi.authors | split:"," %}
-					{% assign last_authors = publi.authors | split:"," | last %}					
-					{% for author in authors %}
-						{% if author contains last_authors %}
-							{% if author contains 'R Skarbez' %}
-								<b>{{ author }}</b>
-							{% else %}
-								{{ author }}
-							{% endif %}	
-						{% else %}	
-							{% if author contains 'R Skarbez' %}
-								<b>{{ author }}</b>,
-							{% else %}
-								{{ author }},
-							{% endif %}
-						{% endif %}
-					{% endfor %}
-					</p>
-					<p><em>{{ publi.publisher }}</em></p>
-				{% endif %}
-			{% endfor %}
-					
+								
 			<!--T Feng-->
 			{% for publi in site.data.tian %}
 				{% if publi.year == year %}
