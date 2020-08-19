@@ -90,13 +90,41 @@ permalink: /publications/
 					{% assign last_authors = publi.authors | split:"," | last %}					
 					{% for author in authors %}
 						{% if author contains last_authors %}
-							{% if author contains 'H Tu' %}
+							{% if author contains 'H Tu' or author contains 'H TU' %}
 								<b>{{ author }}</b>
 							{% else %}
 								{{ author }}
 							{% endif %}	
 						{% else %}	
-							{% if author contains 'H Tu' %}
+							{% if author contains 'H Tu' or author contains 'H TU' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
+			<!--R Skarbez-->
+			{% for publi in site.data.rick %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'R Skarbez' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'R Skarbez' %}
 								<b>{{ author }}</b>,
 							{% else %}
 								{{ author }},
@@ -219,13 +247,41 @@ permalink: /publications/
 					{% assign last_authors = publi.authors | split:"," | last %}					
 					{% for author in authors %}
 						{% if author contains last_authors %}
-							{% if author contains 'H Tu' %}
+							{% if author contains 'H Tu' or author contains 'H TU'  %}
 								<b>{{ author }}</b>
 							{% else %}
 								{{ author }}
 							{% endif %}	
 						{% else %}	
-							{% if author contains 'H Tu' %}
+							{% if author contains 'H Tu' or author contains 'H TU' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+			
+			<!--R Skarbez-->
+			{% for publi in site.data.rick %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'R Skarbez' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'R Skarbez' %}
 								<b>{{ author }}</b>,
 							{% else %}
 								{{ author }},
@@ -247,13 +303,13 @@ permalink: /publications/
 					{% assign last_authors = publi.authors | split:"," | last %}					
 					{% for author in authors %}
 						{% if author contains last_authors %}
-							{% if author contains 'T Feng' %}
+							{% if author contains 'T Feng' or author contains 'F Feng' %}
 								<b>{{ author }}</b>
 							{% else %}
 								{{ author }}
 							{% endif %}	
 						{% else %}	
-							{% if author contains 'T Feng' %}
+							{% if author contains 'T Feng'  or author contains 'F Feng'%}
 								<b>{{ author }}</b>,
 							{% else %}
 								{{ author }},
@@ -363,6 +419,34 @@ permalink: /publications/
 				{% endif %}
 			{% endfor %}
 			
+			<!--R Skarbez-->
+			{% for publi in site.data.rick %}
+				{% if publi.year == year %}
+					<p><b>{{ publi.title }}</b></p>
+					<!-- authors -->
+					<p>
+					{% assign authors = publi.authors | split:"," %}
+					{% assign last_authors = publi.authors | split:"," | last %}					
+					{% for author in authors %}
+						{% if author contains last_authors %}
+							{% if author contains 'R Skarbez' %}
+								<b>{{ author }}</b>
+							{% else %}
+								{{ author }}
+							{% endif %}	
+						{% else %}	
+							{% if author contains 'R Skarbez' %}
+								<b>{{ author }}</b>,
+							{% else %}
+								{{ author }},
+							{% endif %}
+						{% endif %}
+					{% endfor %}
+					</p>
+					<p><em>{{ publi.publisher }}</em></p>
+				{% endif %}
+			{% endfor %}
+					
 			<!--T Feng-->
 			{% for publi in site.data.tian %}
 				{% if publi.year == year %}
