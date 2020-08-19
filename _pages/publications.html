@@ -374,13 +374,13 @@ permalink: /publications/
 					{% assign last_authors = publi.authors | split:"," | last %}					
 					{% for author in authors %}
 						{% if author contains last_authors %}
-							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+							{% if author contains 'HBL Duh' or author contains 'H Duh' or author contains 'BL Duh' %}
 								<b>{{ author }}</b>
 							{% else %}
 								{{ author }}
 							{% endif %}	
 						{% else %}	
-							{% if author contains 'HBL Duh' or author contains 'H Duh' %}
+							{% if author contains 'HBL Duh' or author contains 'H Duh' or author contains 'BL Duh' %}
 								<b>{{ author }}</b>,
 							{% else %}
 								{{ author }},
