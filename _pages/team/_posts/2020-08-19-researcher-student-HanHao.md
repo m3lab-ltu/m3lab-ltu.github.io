@@ -4,7 +4,7 @@ category: student
 title: Han Hao
 image: han.png
 role: PhD Student
-permalink: 'team/2019-01-01-researcher-student-HanHao'
+permalink: 'team/2020-08-19-researcher-student-HanHao'
 social:
     twitter: 
     linkedin: https://www.linkedin.com/in/han-hao-97830a50/
