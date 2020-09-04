@@ -1,0 +1,27 @@
+<h3>Latest Events</h3>
+
+<ul class="list-unstyled">
+    {% for article in site.data.news %}
+        <li class="media">
+            <div class="media-body">		
+				<div class="mt-0 mb-1">
+					<img src="{{ site.url }}{{ site.baseurl }}/images/logo/new-red-label.png" width="10%" />
+					{{ article.title }}
+				</div>
+				<p><small> {{ article.date }}</small> <em> {{article.newspaper}} </em><br/>
+					<a href = {{article.website}}> More infomation</a>
+				</p>
+            </div>
+        </li>
+    {% endfor %}
+</ul>
+
+
+
+<!--
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<a class="twitter-timeline" data-tweet-limit="3"
+data-chrome="noheader nofooter noborders"
+href="https://twitter.com/Twitter"></a>
+-->
