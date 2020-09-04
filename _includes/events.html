@@ -1,18 +1,22 @@
 <h3>Latest Events</h3>
 
+{% assign number = 0 %}
 <ul class="list-unstyled">
-    {% for article in site.data.news %}
+    {% for article in site.data.events %}
         <li class="media">
             <div class="media-body">		
 				<div class="mt-0 mb-1">
+					{% if number <= 3 %}
 					<img src="{{ site.url }}{{ site.baseurl }}/images/logo/new-red-label.png" width="10%" />
+					{% endif %}
 					{{ article.title }}
 				</div>
-				<p><small> {{ article.date }}</small> <em> {{article.newspaper}} </em><br/>
+				<p><small> {{ article.date }}</small> <em> {{article.where}} </em><br/>
 					<a href = {{article.website}}> More infomation</a>
 				</p>
             </div>
         </li>
+		{% assign number = number | plus: 1 %}
     {% endfor %}
 </ul>
 
